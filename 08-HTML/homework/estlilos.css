@@ -1,0 +1,56 @@
+ body{
+                                background-color: #000000;
+  background-image: url("https://rare-gallery.com/uploads/posts/518492-blur-breakfast.jpg");
+
+                            }
+                           
+
+                           
+
+                            
+
+                            .tamaño {font-size: 190px; }
+                            .tamaño1 {font-size: 70px;}
+                            .tamaño2 {font-size: 70px;}
+                            .tamaño3 {font-size: 60px;}  
+                            .tamaño4 {font-size: 300px;}
+
+                            h1 {color:rgba(55, 143, 0, 0.918);} 
+                            
+                            h3{color:rgb(51, 51, 51);}
+                            h4{color:rgb(31, 31, 31)}
+                            h5{color:rgb(35, 35, 35)}
+                            h6{color:rgb(35, 35, 35)}
+                            
+
+                            img{width: 470px;}
+                            #thirdDiv{
+                                max-height: fit-content;
+                                background: rgb(0, 0, 0);
+
+                                display: flex;
+                                justify-content: space-between
+                            } 
+                            .colorin{
+                                color: rgb(255, 0, 0);
+                            }
+                            
+                            .colorin2 {
+                                color: rgba(66, 66, 66, 0.839)  
+                            }
+                            
+                             li{
+                                margin: 301px;
+                             }
+
+                             .fontstyle{
+                                font-family: 'Poiret One', cursive;
+                             }
+                             .fontstyle1{
+                                font-family: 'Zen Tokyo Zoo', cursive;
+                                
+                             }
+                          </style>
+
+</head> 
+<body>
